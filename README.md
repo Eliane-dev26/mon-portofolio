@@ -37,8 +37,8 @@ Je m'intéresse à la robotique et aux systèmes intelligents, au développement
 
 ## Liens
 
-- **Portfolio en ligne :** publier sous peu
-- **Vidéo de présentation :** disponible sous peu
+- **Portfolio en ligne :** https://eliane-dev26.github.io/mon-portofolio/
+- **Vidéo de présentation :** https://drive.google.com/file/d/1D1oSheMqWaraDXDyVkkHWEv1l83R_eWs/view?usp=sharing
 
 ## Contact
 
